@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6293d0daa1255a0443ca75f1"
+  },
+  "Error2": "ErrorClientFileUserMismatch",
+  "Description": "Client attempted to...",
+  "Recover": "Delete the local reaim..."
+},{
+  "_id": {
+    "$oid": "6293d158bd5cbb3fd4943ce9"
+  },
+  "Error3": "ErrorDivergingHistories",
+  "Description": "Client attempted to...",
+  "Recover": "Perform a client reset"
+},{
+  "_id": {
+    "$oid": "629b677154a7248d5ffeff04"
+  },
+  "Error1": "Error1",
+  "Description": "Description",
+  "Recover": "Recover"
+},{
+  "_id": {
+    "$oid": "629b83cc54a7248d5ffeff38"
+  },
+  "error4": 1234,
+  "Description": "DEs",
+  "Recover": "rec"
+}]
