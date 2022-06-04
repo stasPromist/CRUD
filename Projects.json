@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "6293d584d2e52c6af6c6aa33"
+  },
+  "Project": "Platform Development",
+  "Customer": "CreateNewWorld",
+  "Presentation": "1.01.2025",
+  "Errors": [
+    {
+      "error1": {
+        "$oid": "6293d043775612bc65d31591"
+      }
+    },
+    {
+      "error2": {
+        "$oid": "6293d0daa1255a0443ca75f1"
+      }
+    },
+    {
+      "error3": {
+        "$oid": "6293d158bd5cbb3fd4943ce9"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "629a5b651878aff4d182ed6a"
+  },
+  "Project2": "Creation an Application",
+  "Customer": "AheadOfAll",
+  "Presentation": "01.01.2024",
+  "Errors": [
+    {
+      "error1": {
+        "$oid": "6293d043775612bc65d31591"
+      }
+    },
+    {
+      "error2": {
+        "$oid": "6293d0daa1255a0443ca75f1"
+      }
+    },
+    {
+      "error3": {
+        "$oid": "6293d158bd5cbb3fd4943ce9"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "629a683189a9a037ca17a453"
+  },
+  "Project3": "Name Of New Project",
+  "Customer": "Name Of New Customer",
+  "Presentation": "Date Of Presentation",
+  "Errors": [
+    {
+      "_id": {
+        "$oid": "629b677154a7248d5ffeff04"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "629b83cc54a7248d5ffeff38"
+      }
+    }
+  ]
+}]
