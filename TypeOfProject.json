@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6293ca40fa22254e6af40ed0"
+  },
+  "Project1": "Study",
+  "Teachers": [
+    "Professor Sh",
+    "Professor Sh2"
+  ],
+  "StudyHours": "500 ",
+  "Exams": [
+    "First exam: 1.01.2023",
+    "Second exam: 5.05.2023"
+  ],
+  "Projects": [
+    {
+      "Project": {
+        "$oid": "6293d584d2e52c6af6c6aa33"
+      }
+    },
+    {
+      "Project2": {
+        "$oid": "629a5b651878aff4d182ed6a"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6293cc887314e11825307558"
+  },
+  "Project2": "Apply",
+  "Staff": [
+    "Kon",
+    "Jon",
+    "Jou"
+  ],
+  "Task": "Database Update",
+  "Date Of Submission": "1.01.2024",
+  "Projects": [
+    {
+      "Project": "Platform Development",
+      "ID": {
+        "$oid": "6293d584d2e52c6af6c6aa33"
+      }
+    },
+    {
+      "Project2": "Creation an Application",
+      "ID": {
+        "$oid": "629a5b651878aff4d182ed6a"
+      }
+    }
+  ]
+}]
